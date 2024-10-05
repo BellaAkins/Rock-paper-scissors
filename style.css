@@ -10,6 +10,11 @@ body {
   margin: 0 auto;
   border: 3px solid gold;
   padding: 30px;
+
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
 }
 body h1 {
   font-size: 30px;
