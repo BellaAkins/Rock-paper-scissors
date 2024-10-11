@@ -10,8 +10,8 @@ body {
   border: 3px solid gold;
   padding: 30px;
    width: 60vw;
-  min-width: 400px;
-  max-width: 600px;
+  min-width: 300px;
+  max-width: 400px;
   margin: 0 auto;
  
 }
@@ -74,7 +74,7 @@ img {
 }
 
 .score-display {
-
+display: grid;
 }
 
 @keyframes Bellaintroload {
